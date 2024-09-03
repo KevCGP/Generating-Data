@@ -5,7 +5,7 @@ Purpose of this project was to work with large data sets to create visualization
 
 ## Technologies Used
 
-Pytohn, Matpotlib, Plotly
+Python, Matpotlib, Plotly
 
 
 ## Lessons Learned
