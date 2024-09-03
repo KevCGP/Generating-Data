@@ -2,6 +2,10 @@
 
 Purpose of this project was to work with large data sets to create visualizations using python. Matplotlib and Plotly were used to generate visualizations from CSV and JSON files.
 
+<img width="793" alt="Screen Shot 2024-09-03 at 4 18 03 PM" src="https://github.com/user-attachments/assets/1b8ba6e7-bbe1-4bbe-b08a-fce28c9932f7">
+
+
+
 
 ## Technologies Used
 
