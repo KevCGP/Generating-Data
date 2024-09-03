@@ -9,3 +9,4 @@ Python, Matpotlib, Plotly
 
 
 ## Lessons Learned
+From this project, I learned how to create basic graphs and histograms using Matplotlib and Plotly. Biggest challenge was learning how to work with csv and json files to extract the data wanted for visualizations. Fortunately, python has csv and json modules to make the process of reading and extracting data easier.
